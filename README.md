@@ -25,3 +25,6 @@
 |	01  | **[Home prices](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/Home%20prices)** | 
 |	02	| **[Numpy](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/numpy )** | 
 |	03	| **[Pandas](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/pandas )** | 
+
+### Описание проектов (Description)
+**Home prices**
