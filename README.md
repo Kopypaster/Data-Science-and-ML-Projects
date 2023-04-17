@@ -5,12 +5,9 @@
 Собраны уроки по библиотекам Pandas, Matplotlib и numpy
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	01	| **[Matplotlib](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/matpltlib)** | 
+|	01  | **[Matplotlib](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/matpltlib)** | 
 |	02	| **[Numpy](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/numpy )** | 
 |	03	| **[Pandas](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/pandas )** | 
-https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/matpltlib 
-https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/numpy 
-https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/pandas 
 - [ ] Добавить уроки по seaborn и scipy
 - [ ] Добавить уроки по tensorflow и torch 
 Уроки по ML и DeepLearning:
