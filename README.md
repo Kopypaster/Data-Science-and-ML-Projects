@@ -27,4 +27,10 @@
 |	03	| **[Pandas](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/pandas )** | 
 
 ### Описание проектов (Description)
-**Home prices**
+**Home prices** - В проекте рассматривается процесс создания модели прогнозирования цен на недвижимость. Построена модель,с использованием sklearn и линейной регрессии, используя набор данных о ценах на жилье с kaggle.com. Во время построения модели охватываются концепции науки о данных, такие как загрузка и очистка данных, обнаружение и удаление выбросов, проектирование функций, уменьшение размерности, gridsearchcv для настройки гиперпараметров, перекрестная проверка k-fold и т. д. С точки зрения технологий и инструментов этот проект охватывает,
+
+1. Python
+2. Numpy and Pandas for data cleaning
+3. Matplotlib for data visualization
+4. Sklearn for model building
+5. Jupyter notebook, visual studio code and pycharm as IDE
