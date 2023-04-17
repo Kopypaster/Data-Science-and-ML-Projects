@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 # Data-Science-and-ML-Projects
 В этом репозитории собрал Data Science и ML проекты, которыми занимался
 ## Уроки
