@@ -20,9 +20,9 @@
 |	02	| **[DeepLearningML](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/DeepLearningML)** | 
 
 ## Проекты и технологии которые в них использовались 
-| **No.** | **Name** |
-| ------- | -------- |
-|	01  | **[Home prices](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/Home%20prices)** | 
+| **No.** | **Name** | **Description** |
+| ------- | -------- | -------- |
+|	01  | **[Home prices](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/Home%20prices)** | Python, Numpy and Pandas for data cleaning, Matplotlib for data visualization, Sklearn for model building, Jupyter notebook, visual studio code and pycharm as IDE  
 |	02	| **[Numpy](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/numpy )** | 
 |	03	| **[Pandas](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/pandas )** | 
 
