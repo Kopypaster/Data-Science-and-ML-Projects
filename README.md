@@ -1,3 +1,4 @@
+<a id="anchor"></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://github.com/Splucheviy)
 # Data-Science-and-ML-Projects
 В этом репозитории собрал Data Science и ML проекты, которыми занимался
@@ -34,3 +35,5 @@
 3. Matplotlib for data visualization
 4. Sklearn for model building
 5. Jupyter notebook, visual studio code and pycharm as IDE
+
+[Вверх](#anchor)
