@@ -16,7 +16,7 @@
 Уроки по ML и DeepLearning:
 | **No.** | **Name** | 
 | ------- | -------- | 
-|	01  | **[ML](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/ML)** | 
+|	01  | **[ML][(https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/ML)][fjhgk]** | 
 |	02	| **[DeepLearningML](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/DeepLearningML)** | 
 
 ## Проекты и технологии которые в них использовались 
