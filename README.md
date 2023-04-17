@@ -19,8 +19,8 @@
 |	02	| **[DeepLearningML](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/DeepLearningML)** | 
 
 ## Проекты и технологии которые в них использовались 
-| **No.** | **Name** | 
-| ------- | -------- | 
+| **No.** | **Name** | **Description** |
+| ------- | -------- | -------- |
 |	01  | **[Home prices](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/Home%20prices)** | 
 |	02	| **[Numpy](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/numpy )** | 
 |	03	| **[Pandas](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/pandas )** | 
