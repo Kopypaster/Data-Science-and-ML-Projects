@@ -31,6 +31,7 @@
 |	06	| **[Stock_News_Prediction](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/005_Stock_News_Prediction_using_NLP_Tweets_Sentiment_Analysis)** |
 |	07	| **[Eng_to_French_Translation_with_LSTM_NN](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/006_Eng_to_French_Translation_with_LSTM_NN)** |
 |	08	| **[Breast_Cancer_Prediction_with_ML](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/007_Breast_Cancer_Prediction_with_ML)** |The repository is a learning exercise to: Apply the fundamental concepts of machine learning from an available dataset and evaluate and interpret and justify our results and interpretation based on observed dataset in Jupyter notebook
+|	09	| **[MLTradingBot](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/007_Breast_Cancer_Prediction_with_ML)**
 
 ### Описание проектов (Description)
 **[Home prices](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/Home%20prices)** - 
@@ -70,5 +71,8 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 2. Exploratory Data Analysis
 3. Pre-Processing the Data
 4. Build model to predict whether breast cell tissue is  malignant or Benign
+
+**[MLTradingBot](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/007_Breast_Cancer_Prediction_with_ML)** -
+В проекте был разработан бот для анализа и трейд торговли по уроку NicholasRenotte
 
 [Вверх](#anchor)
