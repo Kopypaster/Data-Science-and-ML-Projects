@@ -32,6 +32,7 @@
 |	07	| **[Eng_to_French_Translation_with_LSTM_NN](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/006_Eng_to_French_Translation_with_LSTM_NN)** |
 |	08	| **[Breast_Cancer_Prediction_with_ML](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/007_Breast_Cancer_Prediction_with_ML)** |The repository is a learning exercise to: Apply the fundamental concepts of machine learning from an available dataset and evaluate and interpret and justify our results and interpretation based on observed dataset in Jupyter notebook|
 |	09	| **[MLTradingBot](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/007_Breast_Cancer_Prediction_with_ML)** |В проекте был разработан бот для анализа и трейд торговли по уроку NicholasRenotte|
+|	10	| **[Algorithmic_Trading_Machine_Learning]([https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/007_Breast_Cancer_Prediction_with_ML](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Algorithmic_Trading_Machine_Learning-main/Algorithmic_Trading_Machine_Learning-main))** |Три проекта, разработанные во время прослушивания курса про трейдингу от freeCodeCamp.org|
 
 ### Описание проектов (Description)
 **[Home prices](https://github.com/Kopypaster/Data-Science-and-ML-Projects/tree/main/Home%20prices)** - 
@@ -74,5 +75,9 @@ The analysis is divided into four sections, saved in juypter notebooks in this r
 
 **[MLTradingBot](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/007_Breast_Cancer_Prediction_with_ML)** -
 В проекте был разработан бот для анализа и трейд торговли по уроку NicholasRenotte
+
+**[Algorithmic_Trading_Machine_Learning]([https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Python%20Data%20Analytics%20Projects%20lecture%20series%20by%20Dr.%20Milaan%20Parmar/007_Breast_Cancer_Prediction_with_ML](https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Algorithmic_Trading_Machine_Learning-main/Algorithmic_Trading_Machine_Learning-main)https://github.com/Splucheviy/Data-Science-and-ML-Projects/tree/main/Algorithmic_Trading_Machine_Learning-main/Algorithmic_Trading_Machine_Learning-main)** -
+В курсе по алгоритмической торговле познакомился с тремя торговыми стратегиями. В первом модуле изучил торговую стратегию без присмотра с обучением, используя данные об акциях S&P 500 для освоения функций, индикаторов и оптимизации портфеля.
+В следующем воспользовался возможностями социальных сетей с помощью стратегии инвестирования на основе настроений Twitter, ранжируя акции NASDAQ на основе вовлеченности и оценивая эффективность по доходности QQQ. Наконец, внутридневная стратегия - модель GARCH, в совокупности с техническими индикаторами для сбора как дневных, так и внутридневных сигналов для потенциальных прибыльных позиций.
 
 [Вверх](#anchor)
